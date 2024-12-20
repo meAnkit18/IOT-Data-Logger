@@ -12,7 +12,7 @@
 
 // Blynk authentication token, WiFi credentials
  char auth[] = "ztBIQ9UMOoLr2C-85MzTZJ-Ie9MyFv21";  // Replace with your Blynk Auth Token
-char ssid[] = "anmol";         // Replace with your WiFi SSID
+char ssid[] = "Ankit";         // Replace with your WiFi SSID
 char pass[] = "13062004";     // Replace with your WiFi Password
 
 // DHT sensor settings
